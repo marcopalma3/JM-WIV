@@ -1,5 +1,5 @@
 # JM-WIV
-Simulations and data analysis code for the manuscript "A Bayesian location-scale joint model for time-to-event and multivariate longitudinal data with association based on within-individual variability" (Palma et al., 2025).
+Simulations and data analysis code for the manuscript "A Bayesian location-scale joint model for time-to-event and multivariate longitudinal data with association based on within-individual variability" (Palma et al., 2026), published in Statistics in Medicine (https://doi.org/10.1002/sim.70596).
 
 The R package with the Stan code to fit the location-scale joint model is available at https://github.com/marcopalma3/rstanjmwiv.
 
